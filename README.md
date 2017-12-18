@@ -36,3 +36,9 @@ Quand je parle d'article, c'est dans le contexte d'article de blog. Pas dans le 
    + Mauvaise utilisation : « Voici notre b.p.. ». C'est quoi « b.p. » ici ?
    + Attention, les abbréviations standardes changent d'une langue à l'autre (et de fait, c'est aussi compté pour le premier point). Pour savoir quelles abbréviations utiliser, il suffit d'ouvrir un dictionnaire.
    + Je ne rentre pas dans les considérations typographiques des abbréviations.
+ - Utilisez des mots attractifs
+   + E.g.: « Blockchain », « gestion active », « data » (et en particulier sous la forme « la data »), « expert » (vérifiez que vous ayez effectivement affaire à un expert), « 3D », « crypté », « application », « start-up », etc..
+
+## Idées à vérifier
+
+ - Le rapport « problème » / « solution » : combien de fois solution est mentionné par rapport à « problème »
